@@ -357,3 +357,4 @@ private:
 };
 
 NLOHMANN_JSON_NAMESPACE_END
+
