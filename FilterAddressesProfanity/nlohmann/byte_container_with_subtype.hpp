@@ -101,3 +101,4 @@ class byte_container_with_subtype : public BinaryType
 };
 
 NLOHMANN_JSON_NAMESPACE_END
+

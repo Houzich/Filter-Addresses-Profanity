@@ -5218,3 +5218,4 @@ inline void swap(nlohmann::NLOHMANN_BASIC_JSON_TPL& j1, nlohmann::NLOHMANN_BASIC
 #include <nlohmann/detail/macro_unscope.hpp>
 
 #endif  // INCLUDE_NLOHMANN_JSON_HPP_
+

@@ -76,3 +76,4 @@ class json_ref
 
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
+

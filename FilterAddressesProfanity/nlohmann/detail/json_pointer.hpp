@@ -986,3 +986,4 @@ inline bool operator<(const json_pointer<RefStringTypeLhs>& lhs,
 #endif
 
 NLOHMANN_JSON_NAMESPACE_END
+

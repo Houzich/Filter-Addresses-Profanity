@@ -53,3 +53,4 @@ struct adl_serializer
 };
 
 NLOHMANN_JSON_NAMESPACE_END
+

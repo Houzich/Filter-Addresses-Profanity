@@ -738,3 +738,4 @@ struct is_transparent : bool_constant<impl::is_transparent<T>()> {};
 
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
+
