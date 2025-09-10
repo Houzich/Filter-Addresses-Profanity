@@ -70,3 +70,4 @@ static void unescape(StringType& s)
 
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
+

@@ -98,3 +98,4 @@
     }  /* namespace (inline namespace) NOLINT(readability/namespace) */ \
     }  // namespace nlohmann
 #endif
+

@@ -22,3 +22,4 @@ template<typename ...Ts> using void_t = typename make_void<Ts...>::type;
 
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
+
