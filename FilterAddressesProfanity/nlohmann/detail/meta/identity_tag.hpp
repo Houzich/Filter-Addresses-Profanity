@@ -19,3 +19,4 @@ template <class T> struct identity_tag {};
 
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
+

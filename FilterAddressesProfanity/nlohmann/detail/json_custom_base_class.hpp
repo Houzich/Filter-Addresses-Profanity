@@ -29,3 +29,4 @@ using json_base_class = typename std::conditional <
 
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
+

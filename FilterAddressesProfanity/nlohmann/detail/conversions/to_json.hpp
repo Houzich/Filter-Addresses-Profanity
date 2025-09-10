@@ -444,3 +444,4 @@ JSON_INLINE_VARIABLE constexpr const auto& to_json = // NOLINT(misc-definitions-
 #endif
 
 NLOHMANN_JSON_NAMESPACE_END
+
