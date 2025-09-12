@@ -493,3 +493,4 @@ class span_input_adapter
 }  // namespace detail
 NLOHMANN_JSON_NAMESPACE_END
 
+
